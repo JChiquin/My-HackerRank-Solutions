@@ -1,0 +1,33 @@
+body {
+	width: 33%;
+}
+
+.resultado {
+	background-color: lightgray;
+	border: solid;
+	height: 48px;
+	font-size: 20px;
+}
+
+.numeros {
+	background-color: lightgreen;
+	color: brown;
+}
+
+.accion {
+	background-color: darkgreen;
+	color: white;
+}
+
+.operadores {
+	background-color: black;
+	color: red;
+}
+
+button {
+	width: 25%;
+	height: 36px;
+	font-size: 18px;
+	margin: 0px;
+	float: left;
+}
